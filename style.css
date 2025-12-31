@@ -1,13 +1,8 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
+  background-color: #111;
   color: #fff;
-
-  background-image: url("images/fundo.jpg");
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
 }
 
 
@@ -16,9 +11,6 @@ body {
   margin: auto;
   padding: 40px 20px;
   text-align: center;
-
-  background-color: rgba(0, 0, 0, 0.7);
-  border-radius: 12px;
 }
 
 
