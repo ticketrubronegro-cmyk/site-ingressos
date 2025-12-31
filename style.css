@@ -16,7 +16,11 @@ body {
   margin: auto;
   padding: 40px 20px;
   text-align: center;
+
+  background-color: rgba(0, 0, 0, 0.7);
+  border-radius: 12px;
 }
+
 
 .info {
   color: #ccc;
