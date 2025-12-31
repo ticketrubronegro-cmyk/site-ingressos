@@ -46,3 +46,11 @@ body {
   font-size: 14px;
   color: #aaa;
 }
+
+.event-image {
+  width: 100%;
+  max-width: 500px;
+  margin: 0 auto 30px;
+  display: block;
+  border-radius: 10px;
+}
